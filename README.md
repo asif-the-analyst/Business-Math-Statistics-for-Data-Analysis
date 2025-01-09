@@ -23,5 +23,18 @@ This repository is a part of my data analysis learning journey. It contains deta
 #### Market Share Analysis:
 - Understanding relative performance in a competitive environment.
 
+### Statistics
+#### Central Tendency:
+- Mean: The average of data points.
+- Median: The middle value in a dataset.
+- Mode: The most frequently occurring value.
+
+#### Dispersion Measures:
+- Variance: Measuring data spread.
+- Standard Deviation: Analyzing data variability.
+
+#### Correlation Analysis:
+- Understanding relationships between variables using correlation coefficients.
+
 
 
