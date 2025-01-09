@@ -1,1 +1,1 @@
-# Business-Math-Statistics-for-Data-Analysis
+# Business Math & Statistics for Data Analysis
