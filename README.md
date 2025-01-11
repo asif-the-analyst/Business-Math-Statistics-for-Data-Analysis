@@ -58,8 +58,8 @@ By exploring this repository, you will gain:
 
 ### 🤝 Connect with Me:
 Let’s connect and collaborate:
-- LinkedIn: Your LinkedIn Profile
-- GitHub: Your GitHub Profile
+#### LinkedIn: [LinkedIn Profile](www.linkedin.com/in/asif-the-analyst)
+#### GitHub: [GitHub Profile](https://github.com/asif-the-analyst)
 
 
 
