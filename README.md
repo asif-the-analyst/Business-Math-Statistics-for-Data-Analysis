@@ -16,7 +16,7 @@ This repository is intended to:
 - [What You'll Learn](#What-You'll-Learn)
 - [Connect with Me](#Connect-with-Me)
 
-### 📘 Overview
+### Overview
 This repository is a part of my data analysis learning journey. It contains detailed practice examples, files, and explanations covering key business math and statistics concepts. The goal is to understand and apply these concepts effectively for data-driven decision-making.
 
 ### 📐 Business Math
