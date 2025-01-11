@@ -16,6 +16,9 @@ This repository is a part of my data analysis learning journey. It contains deta
 - Average: Understanding mean values in data.
 - Percentage: Analyzing proportions and growth rates (e.g., % revenue).
 
+![Quick Analysis](https://github.com/user-attachments/assets/226bf319-050b-4001-aa83-8dfb01ede7e5)
+
+
 #### Revenue, Profit, and Loss:
 - Revenue and profitability analysis.
 - Calculating profit/loss margins.
@@ -23,18 +26,26 @@ This repository is a part of my data analysis learning journey. It contains deta
 #### Market Share Analysis:
 - Understanding relative performance in a competitive environment.
 
+![Marvel Financial Analysis](https://github.com/user-attachments/assets/d85d0403-6050-48a1-8b9d-379fe6aed457)
+
 ### 📊 Statistics
 #### Central Tendency:
 - Mean: The average of data points.
 - Median: The middle value in a dataset.
 - Mode: The most frequently occurring value.
 
+![Mean, Median, Mode](https://github.com/user-attachments/assets/a8c130d7-2d33-497d-b7d7-7b09013907a1)
+
 #### Dispersion Measures:
 - Variance: Measuring data spread.
 - Standard Deviation: Analyzing data variability.
 
+![Variance   Std Deviation](https://github.com/user-attachments/assets/d81472ef-9822-4bd9-a7cb-ea9a30542055)
+
 #### Correlation Analysis:
 - Understanding relationships between variables using correlation coefficients.
+
+![Correlation](https://github.com/user-attachments/assets/69188699-7dd2-471e-be0b-f67a57accad2)
 
 ### 🌟 Practice Examples and Files
 Each topic is accompanied by practice examples and their solutions. All files are available in this repository, organized for easy navigation and learning.
