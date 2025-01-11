@@ -78,7 +78,7 @@ By exploring this repository, you will gain:
 
 ### 🤝 Connect with Me
 Let’s connect and collaborate:
-#### LinkedIn: [LinkedIn Profile](www.linkedin.com/in/asif-the-analyst)
+#### LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/asif-the-analyst)
 #### GitHub: [GitHub Profile](https://github.com/asif-the-analyst)
 
 Check out my repository to download detailed notes and practice examples that showcase my Business Math and Statistics skills for data analysis.
