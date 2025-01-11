@@ -5,7 +5,7 @@ This repository is intended to:
 2. Provide a central location for practice files and examples.
 3. Share my insights and techniques with others interested in data analysis.
 
-# Business Math & Statistics for Data Analysis
+# 📐📊 Business Math & Statistics for Data Analysis
 
 ### 📘 Overview
 This repository is a part of my data analysis learning journey. It contains detailed practice examples, files, and explanations covering key business math and statistics concepts. The goal is to understand and apply these concepts effectively for data-driven decision-making.
