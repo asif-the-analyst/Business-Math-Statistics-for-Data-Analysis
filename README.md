@@ -8,7 +8,7 @@ This repository is intended to:
 # 📐📊 Business Math & Statistics for Data Analysis
 
 ## Table of Contents
-- [📘 Overview](#📘 0verview)
+- [📘 Overview](#📘-overview)
 - [Business Math](#Business-Math)
 - [Statistics](#Statistics)
 - [Practice Examples and Files](#Practice-Examples-and-Files)
