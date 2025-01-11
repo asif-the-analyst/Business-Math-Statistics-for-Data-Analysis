@@ -7,6 +7,15 @@ This repository is intended to:
 
 # 📐📊 Business Math & Statistics for Data Analysis
 
+## Table of Contents
+- [Overview](#overview)
+- [Business Math](#Business-Math)
+- [Statistics](#Statistics)
+- [Practice Examples and Files](#Practice-Examples-and-Files)
+- [Tools and Techniques Used](#Tools-and-Techniques-Used)
+- [What You'll Learn](#What-You'll-Learn)
+- [Connect with Me](#Connect-with-Me)
+
 ### 📘 Overview
 This repository is a part of my data analysis learning journey. It contains detailed practice examples, files, and explanations covering key business math and statistics concepts. The goal is to understand and apply these concepts effectively for data-driven decision-making.
 
@@ -56,7 +65,7 @@ Each topic is accompanied by practice examples and their solutions. All files ar
 #### Statistics Examples:
 - Calculating variance, standard deviation, and correlation in datasets.
 
-### 🛠 Tools and Techniques Used:
+### 🛠 Tools and Techniques Used
 - Microsoft Excel for calculations and visualizations.
 - Business Math concepts for financial and operational analysis.
 - Statistical methods for data interpretation.
@@ -67,7 +76,7 @@ By exploring this repository, you will gain:
 - A clear understanding of statistical measures and their real-world applications.
 - Insights into how to analyze and interpret data for informed decision-making.
 
-### 🤝 Connect with Me:
+### 🤝 Connect with Me
 Let’s connect and collaborate:
 #### LinkedIn: [LinkedIn Profile](www.linkedin.com/in/asif-the-analyst)
 #### GitHub: [GitHub Profile](https://github.com/asif-the-analyst)
