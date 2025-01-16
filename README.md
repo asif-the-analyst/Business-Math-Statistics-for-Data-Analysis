@@ -7,14 +7,15 @@ This repository is intended to:
 
 # 📐📊 Business Math & Statistics for Data Analysis
 
-## Table of Contents
-- [Overview](#overview)
-- [Business Math](#Business-Math)
-- [Statistics](#Statistics)
-- [Practice Examples and Files](#Practice-Examples-and-Files)
-- [Tools and Techniques Used](#Tools-and-Techniques-Used)
-- [What You'll Learn](#What-You'll-Learn)
-- [Connect with Me](#Connect-with-Me)
+## 📑 Table of Contents  
+
+- [📘 Overview](#-overview)  
+- [📐 Business Math](#-business-math)  
+- [🌟 Practice Examples and Files](#-practice-examples-and-files)  
+- [🛠 Tools and Techniques Used](#-tools-and-techniques-used)  
+- [🌟 What You'll Learn](#-what-youll-learn)  
+- [🤝 Connect with Me](#-connect-with-me)  
+
 
 ### 📘 Overview
 This repository is a part of my data analysis learning journey. It contains detailed practice examples, files, and explanations covering key business math and statistics concepts. The goal is to understand and apply these concepts effectively for data-driven decision-making.
